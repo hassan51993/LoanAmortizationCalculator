@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoanAmortizationCalculator.Domain", "LoanAmortizationCalculator.Domain\LoanAmortizationCalculator.Domain.csproj", "{070B73CC-12C2-4943-93E9-AE0624466C26}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoanAmortizationCalculator.Application", "LoanAmortizationCalculator.Application\LoanAmortizationCalculator.Application.csproj", "{A5FF71DF-FCB0-48D7-AC47-50BA71980A54}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoanAmortizationCalculator.Infrastructure", "LoanAmortizationCalculator.Infrastructure\LoanAmortizationCalculator.Infrastructure.csproj", "{BBF20942-B165-4256-ADA9-5336F046328E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoanAmortizationCalculator.API", "LoanAmortizationCalculator.API\LoanAmortizationCalculator.API.csproj", "{00CE97AF-2559-4060-8556-CA559FF511E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{070B73CC-12C2-4943-93E9-AE0624466C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{070B73CC-12C2-4943-93E9-AE0624466C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{070B73CC-12C2-4943-93E9-AE0624466C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{070B73CC-12C2-4943-93E9-AE0624466C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5FF71DF-FCB0-48D7-AC47-50BA71980A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5FF71DF-FCB0-48D7-AC47-50BA71980A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5FF71DF-FCB0-48D7-AC47-50BA71980A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5FF71DF-FCB0-48D7-AC47-50BA71980A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF20942-B165-4256-ADA9-5336F046328E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF20942-B165-4256-ADA9-5336F046328E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF20942-B165-4256-ADA9-5336F046328E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF20942-B165-4256-ADA9-5336F046328E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00CE97AF-2559-4060-8556-CA559FF511E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00CE97AF-2559-4060-8556-CA559FF511E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00CE97AF-2559-4060-8556-CA559FF511E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00CE97AF-2559-4060-8556-CA559FF511E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
