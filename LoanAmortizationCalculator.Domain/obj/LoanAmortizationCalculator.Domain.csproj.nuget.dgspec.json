@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\LoanAmortization\\Backend\\LoanAmortizationCalculator.Domain\\LoanAmortizationCalculator.Domain.csproj": {}
+    "H:\\GitHub-Repositories\\LoanAmortizationCalculator\\LoanAmortizationCalculator.Domain\\LoanAmortizationCalculator.Domain.csproj": {}
   },
   "projects": {
-    "H:\\LoanAmortization\\Backend\\LoanAmortizationCalculator.Domain\\LoanAmortizationCalculator.Domain.csproj": {
+    "H:\\GitHub-Repositories\\LoanAmortizationCalculator\\LoanAmortizationCalculator.Domain\\LoanAmortizationCalculator.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\LoanAmortization\\Backend\\LoanAmortizationCalculator.Domain\\LoanAmortizationCalculator.Domain.csproj",
+        "projectUniqueName": "H:\\GitHub-Repositories\\LoanAmortizationCalculator\\LoanAmortizationCalculator.Domain\\LoanAmortizationCalculator.Domain.csproj",
         "projectName": "LoanAmortizationCalculator.Domain",
-        "projectPath": "H:\\LoanAmortization\\Backend\\LoanAmortizationCalculator.Domain\\LoanAmortizationCalculator.Domain.csproj",
+        "projectPath": "H:\\GitHub-Repositories\\LoanAmortizationCalculator\\LoanAmortizationCalculator.Domain\\LoanAmortizationCalculator.Domain.csproj",
         "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "H:\\LoanAmortization\\Backend\\LoanAmortizationCalculator.Domain\\obj\\",
+        "outputPath": "H:\\GitHub-Repositories\\LoanAmortizationCalculator\\LoanAmortizationCalculator.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

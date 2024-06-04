@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LoanAmortizationCalculator.Application
-build_property.ProjectDir = H:\LoanAmortization\Backend\LoanAmortizationCalculator.Application\
+build_property.ProjectDir = H:\GitHub-Repositories\LoanAmortizationCalculator\LoanAmortizationCalculator.Application\

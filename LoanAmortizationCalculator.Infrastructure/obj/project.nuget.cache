@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "lKNYZpCjkpQCMbXhonuzvgb/kRyxIHbOQqtOq3/chQD2WjPpTHgN53fnDtUzqxsvr9cl5HSmaAacx/YqpCd4DQ==",
+  "dgSpecHash": "jZe+x06bJNqz9f7u9+pw0b4SZHXauiv1jtSDubn5yCyC4IqlYmBYWnigu1fjC6AWjhSY+dCQbj3N0sKwNNQZbg==",
   "success": true,
-  "projectFilePath": "H:\\LoanAmortization\\Backend\\LoanAmortizationCalculator.Infrastructure\\LoanAmortizationCalculator.Infrastructure.csproj",
+  "projectFilePath": "H:\\GitHub-Repositories\\LoanAmortizationCalculator\\LoanAmortizationCalculator.Infrastructure\\LoanAmortizationCalculator.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -2831,11 +2831,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\LoanAmortization\\Backend\\LoanAmortizationCalculator.Application\\LoanAmortizationCalculator.Application.csproj",
+      "projectUniqueName": "H:\\GitHub-Repositories\\LoanAmortizationCalculator\\LoanAmortizationCalculator.Application\\LoanAmortizationCalculator.Application.csproj",
       "projectName": "LoanAmortizationCalculator.Application",
-      "projectPath": "H:\\LoanAmortization\\Backend\\LoanAmortizationCalculator.Application\\LoanAmortizationCalculator.Application.csproj",
+      "projectPath": "H:\\GitHub-Repositories\\LoanAmortizationCalculator\\LoanAmortizationCalculator.Application\\LoanAmortizationCalculator.Application.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "H:\\LoanAmortization\\Backend\\LoanAmortizationCalculator.Application\\obj\\",
+      "outputPath": "H:\\GitHub-Repositories\\LoanAmortizationCalculator\\LoanAmortizationCalculator.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2856,11 +2856,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "H:\\LoanAmortization\\Backend\\LoanAmortizationCalculator.Domain\\LoanAmortizationCalculator.Domain.csproj": {
-              "projectPath": "H:\\LoanAmortization\\Backend\\LoanAmortizationCalculator.Domain\\LoanAmortizationCalculator.Domain.csproj"
+            "H:\\GitHub-Repositories\\LoanAmortizationCalculator\\LoanAmortizationCalculator.Domain\\LoanAmortizationCalculator.Domain.csproj": {
+              "projectPath": "H:\\GitHub-Repositories\\LoanAmortizationCalculator\\LoanAmortizationCalculator.Domain\\LoanAmortizationCalculator.Domain.csproj"
             },
-            "H:\\LoanAmortization\\Backend\\LoanAmortizationCalculator.Infrastructure\\LoanAmortizationCalculator.Infrastructure.csproj": {
-              "projectPath": "H:\\LoanAmortization\\Backend\\LoanAmortizationCalculator.Infrastructure\\LoanAmortizationCalculator.Infrastructure.csproj"
+            "H:\\GitHub-Repositories\\LoanAmortizationCalculator\\LoanAmortizationCalculator.Infrastructure\\LoanAmortizationCalculator.Infrastructure.csproj": {
+              "projectPath": "H:\\GitHub-Repositories\\LoanAmortizationCalculator\\LoanAmortizationCalculator.Infrastructure\\LoanAmortizationCalculator.Infrastructure.csproj"
             }
           }
         }
