@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IDsr9KgOQ16mOW2JBoj8ccJXNcy1HiyQa9lLN8ejnos=",
+  "Source": "LoanAmortizationCalculator.API",
+  "BasePath": "_content/LoanAmortizationCalculator.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

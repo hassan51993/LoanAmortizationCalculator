@@ -1,0 +1,17 @@
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Infrastructure\obj\Debug\net7.0\LoanAmortizationCalculator.Infrastructure.csproj.AssemblyReference.cache
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Infrastructure\obj\Debug\net7.0\LoanAmortizationCalculator.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Infrastructure\obj\Debug\net7.0\LoanAmortizationCalculator.Infrastructure.AssemblyInfoInputs.cache
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Infrastructure\obj\Debug\net7.0\LoanAmortizationCalculator.Infrastructure.AssemblyInfo.cs
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Infrastructure\obj\Debug\net7.0\LoanAmortizationCalculator.Infrastructure.csproj.CoreCompileInputs.cache
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Infrastructure\bin\Debug\net7.0\LoanAmortizationCalculator.Infrastructure.deps.json
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Infrastructure\bin\Debug\net7.0\LoanAmortizationCalculator.Infrastructure.runtimeconfig.json
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Infrastructure\bin\Debug\net7.0\LoanAmortizationCalculator.Infrastructure.dll
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Infrastructure\bin\Debug\net7.0\LoanAmortizationCalculator.Infrastructure.pdb
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Infrastructure\bin\Debug\net7.0\LoanAmortizationCalculator.Domain.dll
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Infrastructure\bin\Debug\net7.0\LoanAmortizationCalculator.Domain.pdb
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Infrastructure\obj\Debug\net7.0\LoanAmortizationCalculator.Infrastructure.csproj.CopyComplete
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Infrastructure\obj\Debug\net7.0\LoanAmortizationCalculator.Infrastructure.dll
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Infrastructure\obj\Debug\net7.0\refint\LoanAmortizationCalculator.Infrastructure.dll
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Infrastructure\obj\Debug\net7.0\LoanAmortizationCalculator.Infrastructure.pdb
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Infrastructure\obj\Debug\net7.0\LoanAmortizationCalculator.Infrastructure.genruntimeconfig.cache
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Infrastructure\obj\Debug\net7.0\ref\LoanAmortizationCalculator.Infrastructure.dll

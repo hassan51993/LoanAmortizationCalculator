@@ -1,0 +1,11 @@
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Domain\bin\Debug\net7.0\LoanAmortizationCalculator.Domain.deps.json
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Domain\bin\Debug\net7.0\LoanAmortizationCalculator.Domain.dll
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Domain\bin\Debug\net7.0\LoanAmortizationCalculator.Domain.pdb
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Domain\obj\Debug\net7.0\LoanAmortizationCalculator.Domain.GeneratedMSBuildEditorConfig.editorconfig
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Domain\obj\Debug\net7.0\LoanAmortizationCalculator.Domain.AssemblyInfoInputs.cache
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Domain\obj\Debug\net7.0\LoanAmortizationCalculator.Domain.AssemblyInfo.cs
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Domain\obj\Debug\net7.0\LoanAmortizationCalculator.Domain.csproj.CoreCompileInputs.cache
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Domain\obj\Debug\net7.0\LoanAmortizationCalculator.Domain.dll
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Domain\obj\Debug\net7.0\refint\LoanAmortizationCalculator.Domain.dll
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Domain\obj\Debug\net7.0\LoanAmortizationCalculator.Domain.pdb
+H:\LoanAmortization\Backend\LoanAmortizationCalculator.Domain\obj\Debug\net7.0\ref\LoanAmortizationCalculator.Domain.dll
