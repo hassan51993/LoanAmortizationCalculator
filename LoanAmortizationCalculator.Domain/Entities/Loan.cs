@@ -16,7 +16,7 @@ namespace LoanAmortizationCalculator.Domain.Entities
         public LoanDurationUnit LoanDurationUnit { get; set; }
         public int PaymentFrequencyId { get; set; }
         public PaymentFrequency PaymentFrequency { get; set; }
-        [JsonIgnore]
+        //[JsonIgnore]
         public List<LoanPayment> Payments { get; set; }
         public decimal TotalCost { get; set; }
         public decimal TotalInterest { get; set; }
